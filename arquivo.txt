@@ -3,10 +3,10 @@ expor um git para equipe externa
 apagar a pasta .git perde o commit sem da p push
 fala sobre o rebase
 permissoes por comando git
-se voce finaliza uma branch e precisa da manutencao depois vocE Cria uma nova ou utiliza a mesma
 
 
 
+git reset é como se fosse o override do head
 
 
 git revert volta o commit e commita essa volta.
@@ -23,10 +23,7 @@ git clean apagar todo lixo nao versionado
 modificado:
 git reset tira os arquivos dos stash
 
-git reset é como se fosse o override do head
+
 git reset apaga todos os log
 --hard apaga o historico
 -- soft apga o historico e coloca paara commit
-teste
-
-git stash pop remove os stash
