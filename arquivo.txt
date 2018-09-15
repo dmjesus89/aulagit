@@ -1,1 +1,11 @@
 minha primeira alteracao
+expor um git para equipe externa
+apagar a pasta .git perde o commit sem da p push
+
+
+
+git reset é como se fosse o override do head
+
+
+git revert volta o commit e commita essa volta.
+git revert HEAD~1
