@@ -17,3 +17,4 @@ teste2
 teste3
 teste4
 teste5
+git clean apagar todo lixo nao versionado
