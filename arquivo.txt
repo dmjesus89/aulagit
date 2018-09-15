@@ -6,7 +6,7 @@ permissoes por comando git
 
 
 
-git reset é como se fosse o override do head
+
 
 
 git revert volta o commit e commita essa volta.
@@ -23,7 +23,10 @@ git clean apagar todo lixo nao versionado
 modificado:
 git reset tira os arquivos dos stash
 
-
+git reset é como se fosse o override do head
 git reset apaga todos os log
 --hard apaga o historico
 -- soft apga o historico e coloca paara commit
+teste
+
+git stash pop remove os stash
