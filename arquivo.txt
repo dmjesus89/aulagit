@@ -1,6 +1,8 @@
 minha primeira alteracao
 expor um git para equipe externa
 apagar a pasta .git perde o commit sem da p push
+fala sobre o rebase
+permissoes por comando git
 
 
 
@@ -18,3 +20,10 @@ teste3
 teste4
 teste5
 git clean apagar todo lixo nao versionado
+modificado:
+git reset tira os arquivos dos stash
+
+
+git reset apaga todos os log
+--hard apaga o historico
+-- soft apga o historico e coloca paara commit
