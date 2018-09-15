@@ -10,3 +10,5 @@ git reset é como se fosse o override do head
 
 git revert volta o commit e commita essa volta.
 git revert HEAD~1
+
+a
