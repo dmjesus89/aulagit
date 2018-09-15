@@ -3,8 +3,6 @@ expor um git para equipe externa
 apagar a pasta .git perde o commit sem da p push
 fala sobre o rebase
 permissoes por comando git
-voltar um merge
-o merge nao gera log
 
 
 
@@ -32,5 +30,3 @@ git reset apaga todos os log
 teste
 
 git stash pop remove os stash
-merge so de um commit - cherry pick
-git blame
