@@ -3,11 +3,15 @@ expor um git para equipe externa
 apagar a pasta .git perde o commit sem da p push
 fala sobre o rebase
 permissoes por comando git
+re 
 
 
 
 
-
+o programador preguicoso
+gerador de gitingore
+gerador de commentario
+gerador 
 
 git revert volta o commit e commita essa volta.
 git revert HEAD~1
@@ -30,3 +34,8 @@ git reset apaga todos os log
 teste
 
 git stash pop remove os stash
+merge so de um commit - cherry pick
+git blame
+Meld interface grafica
+git hooks
+
