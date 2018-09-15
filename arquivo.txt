@@ -12,3 +12,6 @@ git revert HEAD~1
 
 a b
 ...
+teste
+teste2
+teste3
