@@ -1,4 +1,5 @@
 minha primeira alteracao
+duvidas
 expor um git para equipe externa
 apagar a pasta .git perde o commit sem da p push
 
